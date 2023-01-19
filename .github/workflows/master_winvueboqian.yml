@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Winvueboqian'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C60F13DCC40A426C9A077D26CCBB7A41 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2610889C27DC474B99B46DA00FA0C806 }}
           package: .
